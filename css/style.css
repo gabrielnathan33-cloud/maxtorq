@@ -1,0 +1,14 @@
+
+body { 
+    background: #e61414;
+}
+
+/* Cabeçalho */ 
+header{
+
+    /* cor de fundo = background */
+    background-color:#19c22f;
+    width: 100%; /* Largura */ 
+    height: 30%; /* Altura */
+
+}
